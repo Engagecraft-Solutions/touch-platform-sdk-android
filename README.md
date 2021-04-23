@@ -33,7 +33,7 @@ android {
 // add a dependency
 dependencies {
   ...
-  implementation 'com.engagecraft:touchplatform-sdk:0.9.0'
+  implementation 'com.engagecraft:touchplatform-sdk:(insert latest version)'
 }
 ```
 
