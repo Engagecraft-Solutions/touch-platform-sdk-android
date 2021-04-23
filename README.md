@@ -2,7 +2,7 @@
 
 ## Demo app
 
-To run the demo app, clone the repo, and build an app (use `debug` buildType).
+Youcan download the latest Demo .apk from this [repo](https://github.com/Engagecraft-Solutions/touch-platform-sdk-android/packages/748260).
 
 ## Requirements
 
