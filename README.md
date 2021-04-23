@@ -2,7 +2,7 @@
 
 ## Demo app
 
-Youcan download the latest Demo .apk from this [repo](https://github.com/Engagecraft-Solutions/touch-platform-sdk-android/packages/748260).
+You can download the latest **Demo** *.apk* file from this [package](https://github.com/Engagecraft-Solutions/touch-platform-sdk-android/packages/748260).
 
 ## Requirements
 
