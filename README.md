@@ -32,7 +32,6 @@ android {
 
 // add a dependency
 dependencies {
-  ...
   implementation 'com.engagecraft:touchplatform-sdk:(insert latest version)'
 }
 ```
@@ -50,13 +49,7 @@ You **must** initialize Touch Platform SDK. It doesn't matter when it is initial
     __YOU_CLIENT_ID__, // a provided Client ID : String
     "en", // (optional) language : String
     false, // (optional) preview mode : Boolean
-    // (optional) listener for opening login flow (if required by the widget)
-    object : TouchPlatformSDK.Listener {
-      override fun showLogin() {
-        openLoginScreen()
-      }
-    }
-  )
+  ) { openLoginScreen() } // (optional) listener for opening login flow (if required by the widget)
 }
 
 ```
