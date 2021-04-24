@@ -46,7 +46,7 @@ You **must** initialize Touch Platform SDK. It doesn't matter when it is initial
 // e.g. on Application.onCreate() or Activity.onCreate()
 {
   TouchPlatformSDK.init(
-    __YOU_CLIENT_ID__, // a provided Client ID : String
+    __YOUR_CLIENT_ID__, // a provided Client ID : String
     "en", // (optional) language : String
     false, // (optional) preview mode : Boolean
   ) { openLoginScreen() } // (optional) listener for opening login flow (if required by the widget)
